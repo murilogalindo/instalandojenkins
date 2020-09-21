@@ -18,16 +18,16 @@
 - Finalizar a instalação do Jenkins no Linux Ubuntu
 
 ## No Jenkins 
-Click no link Novo Job
-Enter an item name
-Escolha a forma que quer construir o projeto ex: Construir um projeto de software free-style
-Em Gerenciamento de código fonte
-Em Repository URL insira a URL do git (do projeto)
-Em construir periodicamente: H 0,12 * * 0-6 (executar 2x por dia)
-Salve as aterações
-Na tela inicial do Jenkins onde fica os projetos (Jobs)
-Click na seta no Job e escolhar Construir Agora
-Veja a execução no Histórico de builds 
+- Click no link Novo Job
+- Enter an item name
+- Escolha a forma que quer construir o projeto ex: Construir um projeto de software free-style
+- Em Gerenciamento de código fonte
+- Em Repository URL insira a URL do git (do projeto)
+- Em construir periodicamente: H 0,12 * * 0-6 (executar 2x por dia)
+- Salve as aterações
+- Na tela inicial do Jenkins onde fica os projetos (Jobs)
+- Click na seta no Job e escolhar Construir Agora
+- Veja a execução no Histórico de builds 
 
 
 
