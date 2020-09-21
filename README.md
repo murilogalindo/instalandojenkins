@@ -1,8 +1,8 @@
 # instalandojenkins
 
-# não está completo (apenas o básico)
+## não está completo (apenas o básico)
 
-# acesse https://www.jenkins.io/
+#E acesse https://www.jenkins.io/
 - Clicar em download;
 - Escollher a plataforma de sua preferencia;
 - Seguir as instruções de instalação: https://pkg.jenkins.io/debian-stable/
@@ -17,7 +17,7 @@
 - Criar um usuário admin;
 - Finalizar a instalação do Jenkins no Linux Ubuntu
 
-# No Jenkins 
+## No Jenkins 
 Click no link Novo Job
 Enter an item name
 Escolha a forma que quer construir o projeto ex: Construir um projeto de software free-style
